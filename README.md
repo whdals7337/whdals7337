@@ -9,3 +9,6 @@
 
 career
   - 2019.12 ~ 2020.10 hanasoft Enterprise Institute Student Researcher
+
+introduce page
+  - http://ec2-35-168-161-112.compute-1.amazonaws.com/
