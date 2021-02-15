@@ -12,3 +12,6 @@ career
 
 introduce page
   - http://ec2-35-168-161-112.compute-1.amazonaws.com/
+ 
+tistory
+  - https://wellbell.tistory.com/
