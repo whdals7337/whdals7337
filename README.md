@@ -9,9 +9,6 @@
 
 career
   - 2019.12 ~ 2020.10 hanasoft Enterprise Institute Student Researcher
-
-introduce page
-  - http://wellbell.co.kr/
  
 tistory
   - https://wellbell.tistory.com/
